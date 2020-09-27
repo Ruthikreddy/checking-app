@@ -18,6 +18,9 @@ namespace LearningProblem
             {
                 Console.WriteLine("employee is absent");
             }
+            if (EmpCheck){
+                Console.WriteLine("check for merge");
+            }
         }
     }
 }
